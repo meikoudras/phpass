@@ -1,5 +1,5 @@
 {
-    "name": "rych/phpass",
+    "name": "meikoudras/phpass",
     "type": "library",
     "description": "PHP Password Library: Easy, secure password management for PHP",
     "keywords": ["cryptography", "password"],
@@ -17,7 +17,7 @@
         "wiki": "https://github.com/rchouinard/phpass/wiki"
     },
     "require": {
-        "php": ">=5.3.7"
+        "php": ">=5.3.6"
     },
     "suggest": {
         "ext-hash": "Some modules and features may require the HASH Message Digest Framework extension in order to work.",
